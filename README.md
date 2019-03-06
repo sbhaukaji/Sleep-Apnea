@@ -8,5 +8,5 @@ Installation: All the codes are written in MATLAB. Please install MATLAB to run 
 
 Usage:
 Contributing:
-Credits:
+Credits: I volunteered in Dr. Khosrow Behbehani's research lab as undergraduate research assistant.
 License:
